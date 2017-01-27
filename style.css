@@ -33,7 +33,7 @@ Body {
     padding: 20;
     margin: 20;
     border: 20;
-    background-image: url(images/home.png) top left repeat;
+    background-image: url(images/home.png.png) top left repeat;
     background-position: top left;
     background-repeat: repeat-x;
 
@@ -106,7 +106,7 @@ ul li{
 .featured image{
     width: 630px;
     height: 246px;
-    background: url(images/home.png) !
+    background: url(images/home.png.png) !
 top left no-repeat;!
 }
 
